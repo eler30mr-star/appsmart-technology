@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { ArrowRight, Bot, BrainCircuit, CheckCircle2, ChevronUp, Code2, Cpu, ExternalLink, Globe2, HeartHandshake, Layers3, LockKeyhole, Mail, Menu, Rocket, ShieldCheck, Smartphone, Sparkles, Target, Users, X } from 'lucide-react';
 import './styles.css';
 
-const APP_STORE_URL = 'https://appsem-store.vercel.app';
+const APP_STORE_URL = 'https://appsem-store-public.vercel.app/';
 
 function Header({ page, setPage }) {
   const [open, setOpen] = useState(false);
