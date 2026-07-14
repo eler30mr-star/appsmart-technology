@@ -23,7 +23,7 @@ import {
 import './styles.css';
 
 const APP_STORE_URL = 'https://appsem-store.vercel.app/';
-const LOGO_URL = 'https://play-lh.googleusercontent.com/d6N_uif2FjJ_k3ADxJS-7bHLPjp_5CNYd_VBDm87ZINrfS2y2XF-4Zs24SFVjMogLg=s188-rw';
+const LOGO_URL = 'https://appsmart-technology.vercel.app/images/icon.png';
 
 function BrandLogo({ compact = false }) {
   return (
